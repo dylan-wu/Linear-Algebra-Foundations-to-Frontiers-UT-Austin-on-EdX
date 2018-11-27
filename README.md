@@ -1,1 +1,1 @@
-# Linear-Algebra-Foundations-to-Frontiers-UT-Austin-on-EdX
+# Linear Algebra - Foundations to Frontiers UT Austin on EdX
