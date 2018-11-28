@@ -1,7 +1,7 @@
 | Section | Percentage |
 |---------|------------|
 | 
-[asdf](01-vectors-in-linear-algebra.md#12-what-is-a-vector)
+[asdf](#12-what-is-a-vector)
 # 1.2 What is a Vector
 
 # 1.3 Simple Vector Operations
