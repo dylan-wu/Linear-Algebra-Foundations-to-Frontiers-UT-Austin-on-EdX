@@ -44,6 +44,20 @@ Also, at 00:32 Robert says *e_0* instead of *e_j*
 
 # 1.4 Advanced Vector Operations
 
+## Links
+
+[Notes](https://docs.google.com/document/d/1rI1bcz8gslAboEO_p2d-bpWJ308Vsf74MveE9afDYMw/edit#bookmark=id.ozlvm18o0ui1) | [Related Reading](http://www.cs.utexas.edu/users/flame/LAFF/Notes/Week1.pdf#page=13)
+
+## Test Results
+
+| Date | Score |
+|------|-------|
+| 2018-11-28 | ![](http://progressed.io/bar/100) |
+
+## Videos
+
+[![1.4.1 Notation](https://img.youtube.com/vi/PQ1Q85JGgZg/0.jpg)](https://www.youtube.com/watch?v=PQ1Q85JGgZg)
+
 # 1.5 LAFF Software Package Development: Vectors
 
 # 1.6 Slicing and Dicing Vectors
