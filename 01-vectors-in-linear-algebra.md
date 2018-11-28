@@ -14,6 +14,8 @@
 
 # 1.2 What is a Vector
 
+[Notes](https://docs.google.com/document/d/1rI1bcz8gslAboEO_p2d-bpWJ308Vsf74MveE9afDYMw/edit#bookmark=id.8jikwd6cjuqc)
+
 [Related Reading](http://www.cs.utexas.edu/users/flame/LAFF/Notes/Week1.pdf#page=6)
 
 [![1.2.1 Notation](https://img.youtube.com/vi/6DKfyYDzwBE/0.jpg)](https://www.youtube.com/watch?v=6DKfyYDzwBE)
