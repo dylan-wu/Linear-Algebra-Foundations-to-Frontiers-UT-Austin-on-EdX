@@ -14,6 +14,8 @@
 
 # 1.2 What is a Vector
 
+[1.2.2 Unit Basis Vectors](https://www.youtube.com/watch?v=-EuhmfIMkXs)
+
 # 1.3 Simple Vector Operations
 
 # 1.4 Advanced Vector Operations
