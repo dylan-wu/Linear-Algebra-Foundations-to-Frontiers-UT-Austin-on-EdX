@@ -62,6 +62,8 @@ Also, at 00:32 Robert says *e_0* instead of *e_j*
 
 1.4.1 Scaled Vector Addition AXPY Video 3:49
 
+[Notes](https://docs.google.com/document/d/1rI1bcz8gslAboEO_p2d-bpWJ308Vsf74MveE9afDYMw/edit#bookmark=id.bb5i9i6dlxgy)
+
 [![](https://img.youtube.com/vi/PQ1Q85JGgZg/0.jpg)](https://www.youtube.com/watch?v=PQ1Q85JGgZg)
 
 # 1.5 LAFF Software Package Development: Vectors
