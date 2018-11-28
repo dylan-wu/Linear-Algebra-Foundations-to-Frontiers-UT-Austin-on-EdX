@@ -16,6 +16,16 @@
 
 [1.2.2 Unit Basis Vectors](https://www.youtube.com/watch?v=-EuhmfIMkXs)
 
+```
+At 1:16, a slide has the following:
+
+The symbols i and j denote *e_0*, *e_1* and *e_2* in 2D and 3D; and
+The symbol k denotes *e_2* in 3D
+Removing *e_2* in the first line would make this slide more correct.  (Fixing videos is painful, so this notification will have to do.)
+
+Also, at 00:32 Robert says *e_0* instead of *e_j*
+```
+
 # 1.3 Simple Vector Operations
 
 # 1.4 Advanced Vector Operations
