@@ -16,7 +16,9 @@
 
 [![1.2.1 Notation](https://img.youtube.com/vi/6DKfyYDzwBE/0.jpg)](https://www.youtube.com/watch?v=6DKfyYDzwBE)
 
-[![1.2.2 Unit Basis Vectors Video](https://img.youtube.com/vi/EuhmfIMkXs/0.jpg)](https://www.youtube.com/watch?v=EuhmfIMkXs)
+[![1.2.2 Unit Basis Vectors Video](https://img.youtube.com/vi/-EuhmfIMkXs/0.jpg)](https://www.youtube.com/watch?v=-EuhmfIMkXs)
+
+https://www.youtube.com/watch?v=
 
 ```
 At 1:16, a slide has the following:
