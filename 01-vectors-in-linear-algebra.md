@@ -60,7 +60,7 @@ Also, at 00:32 Robert says *e_0* instead of *e_j*
 
 ## Videos
 
-1.4.1 Scaled Vector Addition(AXPY Video 3:49
+1.4.1 Scaled Vector Addition AXPY Video 3:49
 
 [![](https://img.youtube.com/vi/PQ1Q85JGgZg/0.jpg)](https://www.youtube.com/watch?v=PQ1Q85JGgZg)
 
