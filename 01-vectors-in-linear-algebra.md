@@ -18,8 +18,6 @@
 
 [![1.2.2 Unit Basis Vectors Video](https://img.youtube.com/vi/-EuhmfIMkXs/0.jpg)](https://www.youtube.com/watch?v=-EuhmfIMkXs)
 
-https://www.youtube.com/watch?v=
-
 ```
 At 1:16, a slide has the following:
 
