@@ -1,3 +1,7 @@
+| Section | Percentage |
+|---------|------------|
+| 
+[asdf](1.8-wrap-up)
 # 1.2 What is a Vector
 
 # 1.3 Simple Vector Operations
