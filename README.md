@@ -5,7 +5,7 @@
 | Name | Progress | Stage |
 |------|----------|-------|
 | 0: Getting Started | ![](http://progressed.io/bar/100) | Completed |
-| 1: Vectors in Linear Algebra | ![](http://progressed.io/bar/0) | In progress |
+| 1: Vectors in Linear Algebra | ![](http://progressed.io/bar/75) | In progress |
 | 2 Linear Transformations and Matrices |  |  |
 | 3: Matrix-Vector Operations |  |  |
 | 4: Matrix-Vector to Matrix-Matrix Multiplication |  |  |
