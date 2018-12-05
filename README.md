@@ -1,5 +1,7 @@
 # Linear Algebra - Foundations to Frontiers UT Austin on EdX
 
+[Course](https://courses.edx.org/courses/course-v1:UTAustinX+UT.5.05x+2T2018/courseware/7a78687246af4d3788684962136f949b/de9876de14394df395423b596b7884d4/6?activate_block_id=block-v1%3AUTAustinX%2BUT.5.05x%2B2T2018%2Btype%40problem%2Bblock%40c45f036ff8804e72876f474cb495f244)
+
 | Name | Progress | Stage |
 |------|----------|-------|
 | 0: Getting Started | ![](http://progressed.io/bar/100) | Completed |
