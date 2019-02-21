@@ -27,6 +27,8 @@ Upon completion of this unit, you should be able to
 
 <img src="https://user-images.githubusercontent.com/6586811/53199753-88c67080-35e5-11e9-9c1c-8a539a4b82a4.png" width="750"/>
 
+<img src="https://user-images.githubusercontent.com/6586811/53199898-d8a53780-35e5-11e9-9e95-7732404e6cf0.png" width="750"/>
+
 - [3.2.1 The Zero Matrix](https://www.youtube.com/watch?v=E3roa1e48DA)
 - [3.2.1.2 Setting a matrix to zero (Matlab) (2015)](https://www.youtube.com/watch?v=0xPxQd_5EA4)
 - [3.2.2 The Identity Matrix](https://www.youtube.com/watch?v=T4QCRhXYrTw)
