@@ -43,6 +43,10 @@ Upon completion of this unit, you should be able to
 <img src="https://user-images.githubusercontent.com/6586811/53200381-02129300-35e7-11e9-8a6b-4de281be62ed.png" width="750"/>
 <img src="https://user-images.githubusercontent.com/6586811/53200393-0939a100-35e7-11e9-92c3-d511748c1208.png" width="750"/>
 
+## 3.2.4
+
+
+
 # 3.3 Operations with Matrices
 # 3.4 Matrix-Vector Multiplication Algorithms
 # 3.5 Wrap up
