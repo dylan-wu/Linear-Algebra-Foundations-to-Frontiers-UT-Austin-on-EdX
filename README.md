@@ -1,6 +1,6 @@
 # Linear Algebra - Foundations to Frontiers UT Austin on EdX
 
-[Course](https://courses.edx.org/courses/course-v1:UTAustinX+UT.5.05x+2T2018/courseware/7a78687246af4d3788684962136f949b/de9876de14394df395423b596b7884d4/6?activate_block_id=block-v1%3AUTAustinX%2BUT.5.05x%2B2T2018%2Btype%40problem%2Bblock%40c45f036ff8804e72876f474cb495f244)
+[Course](https://courses.edx.org/courses/course-v1:UTAustinX+UT.5.05x+1T2019/course/#block-v1:UTAustinX+UT.5.05x+1T2019+type@chapter+block@b39776b93e54417bbd359e40b15dbfed)
 
 | Name | Progress | Stage |
 |------|----------|-------|
@@ -20,3 +20,10 @@
 | 11: Orthogonal Projection, Low Rank Approximation, and Orthogonal Bases |  |  |
 | 12: Eigenvalues and Eigenvectors |  |  |
 | Final |  |  |
+
+# Log
+
+## 2019-02-21
+
+- Start and complete week 3
+- Verify that I do actually know week 1's material
