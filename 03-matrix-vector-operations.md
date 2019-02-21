@@ -26,26 +26,22 @@ Upon completion of this unit, you should be able to
 ## 3.2.1
 
 <img src="https://user-images.githubusercontent.com/6586811/53199753-88c67080-35e5-11e9-9c1c-8a539a4b82a4.png" width="750"/>
-
 <img src="https://user-images.githubusercontent.com/6586811/53199898-d8a53780-35e5-11e9-9e95-7732404e6cf0.png" width="750"/>
-
 <img src="https://user-images.githubusercontent.com/6586811/53199963-025e5e80-35e6-11e9-8fee-e94860d754d7.png" width="750"/>
 
 ## 3.2.2
 
 <img src="https://user-images.githubusercontent.com/6586811/53200051-3d609200-35e6-11e9-899f-8708eebf9cbf.png" width="750"/>
-
 <img src="https://user-images.githubusercontent.com/6586811/53200088-55d0ac80-35e6-11e9-83b1-2dc9ae618b6d.png" width="750"/>
-
 <img src="https://user-images.githubusercontent.com/6586811/53200120-68e37c80-35e6-11e9-82f6-1c3a4b825b3d.png" width="750"/>
-
 <img src="https://user-images.githubusercontent.com/6586811/53200157-7ac51f80-35e6-11e9-9955-19877e5cad79.png" width="750"/>
 
-- [3.2.1 The Zero Matrix](https://www.youtube.com/watch?v=E3roa1e48DA)
-- [3.2.1.2 Setting a matrix to zero (Matlab) (2015)](https://www.youtube.com/watch?v=0xPxQd_5EA4)
-- [3.2.2 The Identity Matrix](https://www.youtube.com/watch?v=T4QCRhXYrTw)
-- [3.2.2.2 Matlab (2015)](https://www.youtube.com/watch?v=p2p1UD0yfLk)
-- [3.2.3 Diagonal matrices](https://www.youtube.com/watch?v=bdwfDlHD4XQ)
+## 3.2.3
+
+<img src="https://user-images.githubusercontent.com/6586811/53200319-e0b1a700-35e6-11e9-97a1-7d20e1e74823.png" width="750"/>
+<img src="https://user-images.githubusercontent.com/6586811/53200375-fd4ddf00-35e6-11e9-803b-2e908c3a373b.png" width="750"/>
+<img src="https://user-images.githubusercontent.com/6586811/53200381-02129300-35e7-11e9-8a6b-4de281be62ed.png" width="750"/>
+<img src="https://user-images.githubusercontent.com/6586811/53200393-0939a100-35e7-11e9-92c3-d511748c1208.png" width="750"/>
 
 # 3.3 Operations with Matrices
 # 3.4 Matrix-Vector Multiplication Algorithms
