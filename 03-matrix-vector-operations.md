@@ -22,6 +22,17 @@ Upon completion of this unit, you should be able to
 - [3.1.1 Timmy Part 2 update](https://www.youtube.com/watch?v=QQuGiBfddHY)
 
 # 3.2 Special Matrices
+
+## 3.2.1
+
+![image](https://user-images.githubusercontent.com/6586811/53199753-88c67080-35e5-11e9-9c1c-8a539a4b82a4.png)
+
+- [3.2.1 The Zero Matrix](https://www.youtube.com/watch?v=E3roa1e48DA)
+- [3.2.1.2 Setting a matrix to zero (Matlab) (2015)](https://www.youtube.com/watch?v=0xPxQd_5EA4)
+- [3.2.2 The Identity Matrix](https://www.youtube.com/watch?v=T4QCRhXYrTw)
+- [3.2.2.2 Matlab (2015)](https://www.youtube.com/watch?v=p2p1UD0yfLk)
+- [3.2.3 Diagonal matrices](https://www.youtube.com/watch?v=bdwfDlHD4XQ)
+
 # 3.3 Operations with Matrices
 # 3.4 Matrix-Vector Multiplication Algorithms
 # 3.5 Wrap up
