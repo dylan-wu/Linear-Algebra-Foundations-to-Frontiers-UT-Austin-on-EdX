@@ -2,11 +2,11 @@
 
 [Course](https://courses.edx.org/courses/course-v1:UTAustinX+UT.5.05x+1T2019/course/#block-v1:UTAustinX+UT.5.05x+1T2019+type@chapter+block@b39776b93e54417bbd359e40b15dbfed)
 
-| Name | Progress | Stage |
-|------|----------|-------|
-| 0: Getting Started | ![](http://progressed.io/bar/100) | Completed |
-| 1: Vectors in Linear Algebra | ![](http://progressed.io/bar/75) | In progress |
-| 2 Linear Transformations and Matrices |  |  |
+| Name | Progress |
+|------|----------|
+| 0: Getting Started | ![](http://progressed.io/bar/100) |
+| 1: Vectors in Linear Algebra | ![](http://progressed.io/bar/100) |
+| 2 Linear Transformations and Matrices | ![](http://progressed.io/bar/100) |
 | 3: Matrix-Vector Operations |  |  |
 | 4: Matrix-Vector to Matrix-Matrix Multiplication |  |  |
 | Exam 1 |  |  |
