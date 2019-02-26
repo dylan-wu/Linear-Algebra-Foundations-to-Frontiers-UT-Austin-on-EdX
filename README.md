@@ -1,5 +1,7 @@
 # Linear Algebra - Foundations to Frontiers UT Austin on EdX
 
+[Yutsumura](https://yutsumura.com/linear-algebra/)
+
 [Course](https://courses.edx.org/courses/course-v1:UTAustinX+UT.5.05x+1T2019/course/#block-v1:UTAustinX+UT.5.05x+1T2019+type@chapter+block@b39776b93e54417bbd359e40b15dbfed)
 
 | Name | Progress |
