@@ -10,17 +10,9 @@
 | [1.8 Wrap Up](#18-wrap-up) | ![](http://progressed.io/bar/100) |
 | [Week 1 Proofs with Transcripts](#week-1-proofs-with-transcripts) | ![](http://progressed.io/bar/0) |
 
-# Week 1
-
-[Playlist](https://www.youtube.com/playlist?list=PLSl48-6ESzFZomWVRa0FQpiSpzOQiKsO_)
-
-[1.4.1 Scaled Vector Addition (AXPY)](https://www.youtube.com/watch?v=PQ1Q85JGgZg)
-[1.4.1 How to count flops and memops](https://www.youtube.com/watch?v=pba8XFy0qbw)
-[1.4.2 Linear Combinations of Vectors](https://youtu.be/hxKkIK-yb24)
-[1.4.3 Dot or Inner Product (DOT)](https://youtu.be/dbHpFo2pSyM)
-[1.4.4 Vector Length (norm2)](https://youtu.be/sIMTKn-k_AY)
-[1.4.5 Vector Functions](https://youtu.be/_i0KdR6k_6I)
-[1.4.6 Vector Functions That Map a Vector to a Vector](https://youtu.be/vQw2Pq42g4c)
+Playlist (1:03:12)
+[ Link ]() | <details><summary>Display</summary><iframe width="650px" height="450" src="https://www.youtube.com/embed/videoseries?list=PL4zlr9pvbVceptzqKh1UprbFX6OETPpVQ" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe> </details> |
+|-|-|
 
 # 1.1 Opening Remarks 
 
