@@ -1,13 +1,13 @@
 ## Playlist
 
-[Reading](https://docs.google.com/viewer?url=https://github.com/dylan-wu/UTAustinX-UT.5.05x-Linear-Algebra-Foundations-to-Frontiers/blob/master/week-2.pdf?raw=1#page=10)
+[Reading](http://www.cs.utexas.edu/users/flame/LAFF/Notes/Week2.pdf)
 
 | [Link](https://www.youtube.com/playlist?list=PLSl48-6ESzFYoR6Az_X5jzzBTKfW7nElZ) | <details><summary>Display</summary><iframe width="650px" height="450" src="https://www.youtube.com/embed/videoseries?list=PLSl48-6ESzFYoR6Az_X5jzzBTKfW7nElZ" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe> </details> |
 |-|-|
 
 ## 2.1 Opening Remarks
 
-
+[Homework](http://www.cs.utexas.edu/users/flame/LAFF/Notes/Week2.pdf#page=3)
 
 ## 2.2 Linear Transformations
 
