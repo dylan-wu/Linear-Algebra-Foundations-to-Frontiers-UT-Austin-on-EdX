@@ -9,6 +9,8 @@
 
 [Homework](http://www.cs.utexas.edu/users/flame/LAFF/Notes/Week2.pdf#page=3)
 
+<iframe src="http://docs.google.com/gview?url=http://www.cs.utexas.edu/users/flame/LAFF/Notes/Week2.pdf#page=3&embedded=true"></iframe>
+
 ## 2.2 Linear Transformations
 
 ## 2.3 Mathematical Induction
