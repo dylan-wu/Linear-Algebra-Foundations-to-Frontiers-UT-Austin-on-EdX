@@ -1,0 +1,15 @@
+{
+  "name": "UTAustinX-UT.5.05x-Linear-Algebra-Foundations-to-Frontiers",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/dylan-wu/UTAustinX-UT.5.05x-Linear-Algebra-Foundations-to-Frontiers.git",
+  "author": "EdgeKaos <edgekaos@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "dev" : "vuepress dev",
+    "build" : "vuepress build"
+  },
+  "dependencies": {
+    "vuepress": "^1.0.0-alpha.42"
+  }
+}
