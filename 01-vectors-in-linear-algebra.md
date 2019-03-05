@@ -11,7 +11,7 @@
 | [Week 1 Proofs with Transcripts](#week-1-proofs-with-transcripts) | ![](http://progressed.io/bar/0) |
 
 Playlist (1:03:12)
-[ Link ]() | <details><summary>Display</summary><iframe width="650px" height="450" src="https://www.youtube.com/embed/videoseries?list=PL4zlr9pvbVceptzqKh1UprbFX6OETPpVQ" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe> </details> |
+| [ Link ]() | <details><summary>Display</summary><iframe width="650px" height="450" src="https://www.youtube.com/embed/videoseries?list=PL4zlr9pvbVceptzqKh1UprbFX6OETPpVQ" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe> </details> |
 |-|-|
 
 # 1.1 Opening Remarks 
